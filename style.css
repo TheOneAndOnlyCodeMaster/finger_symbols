@@ -1,0 +1,23 @@
+#camera, #snapshot{
+    border: thin purple ridge;
+    width: 310px;
+    height: 300px;
+    box-shadow:  16px 8px 60px darkturquoise;
+}
+.main_div{
+    background: seagreen;
+    margin-top: 15px;
+    padding: 10px;
+    border: thin navy ridge;
+    border-radius: 3%;
+}
+.main_div label{
+    background: navy;
+    color: #e9c9ff;
+    padding: 6px;
+    width: 310px;
+    margin-bottom: 0px;
+}
+body{
+    background-color: teal;
+}
